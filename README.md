@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I´m currently working in web, more specifically as a backend and frontend developer for the company I currently work for, in addition to HVAC control engineering projects.<br>👯 I´m looking to collaborate in projects related to web development mainly but I have already had experience with java, python and MySQL, and I would love to collaborate in that kind of projects.<br>🤝 I'm looking for help with the use of packages and APIs in my projects correctly.<br>🌱 I am currently learning how to use databases other than MySQL, advice is welcome BTW.<br>💬 Ask me about the development of control engineering for HVAC systems<br>⚡ Fun fact, I study and work since I started developing 4 years ago, and I haven't slept more than 5 hours in a row all this time
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/busca-castilla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/C4stilla) 
